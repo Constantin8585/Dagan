@@ -1,0 +1,30 @@
+/* css/style.css */
+body {
+    background-color: #97a0a8; /* Couleur de fond */
+}
+
+.container {
+    background-color: #ffffff; /* Couleur de fond du contenu */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
+
+.btn-block {
+    margin-top: 10px;
+}
+
+#signup-form {
+    margin-top: 20px;
+}
+
+#signup-form h2 {
+    color: #007bff; /* Couleur du texte */
+}
+
+#signup-form form {
+    margin-top: 15px;
+    display: none;
+}
+
+/* Ajoutez ici les styles supplémentaires pour le formulaire si nécessaire */
